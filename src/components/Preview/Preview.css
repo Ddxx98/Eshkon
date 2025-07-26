@@ -1,0 +1,11 @@
+.preview-container {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  font-family: system-ui, sans-serif;
+  color: #111;
+}
+.preview-container > h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}

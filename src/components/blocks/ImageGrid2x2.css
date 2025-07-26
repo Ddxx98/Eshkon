@@ -1,0 +1,15 @@
+.image-grid-2x2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 640px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  border-radius: 8px;
+}
+.image-grid-2x2 img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  user-select: none;
+}
