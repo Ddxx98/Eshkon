@@ -80,17 +80,5 @@ The production-ready files will be in the `dist/` folder.
 
 ---
 
-### License
-
-MIT License
-
----
-
-### Contact / Support
-
-For issues, questions, or feature requests, please open an issue or contact the maintainer.
-
----
-
 Enjoy building great landing pages!
 
